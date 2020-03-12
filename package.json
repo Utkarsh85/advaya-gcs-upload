@@ -1,6 +1,6 @@
 {
   "name": "advaya-gcs-upload",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Advaya GCS upload",
   "main": "index.js",
   "directories": {
