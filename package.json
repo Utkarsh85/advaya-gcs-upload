@@ -1,0 +1,20 @@
+{
+  "name": "advaya-gcs-upload",
+  "version": "1.0.0",
+  "description": "Advaya GCS upload",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Utkarsh85",
+  "license": "MIT",
+  "dependencies": {
+    "gcs-resumable-upload": "^2.3.3",
+    "gm": "^1.23.1",
+    "mime-types": "^2.1.26",
+    "uuid": "^7.0.2"
+  }
+}
